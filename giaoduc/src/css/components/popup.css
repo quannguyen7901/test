@@ -1,0 +1,149 @@
+.popup__cover{
+    position: absolute;
+    top:0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    /* display: block; */
+    z-index: 2;
+    background-color: rgba(161, 160, 160,0.25);
+    display: flex;
+    justify-content: center;
+}
+
+.popup{
+    margin: auto;
+    background-color: #fff;
+    box-sizing: border-box;
+    border-radius: var(--border-radius);
+    width:600px;
+    height:auto;
+}
+
+.popup__head{
+    display: flex;
+    padding: 24px;
+
+}
+
+.popup__name{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    flex-grow: 1;
+}
+
+.popup__icon{
+    display: flex;
+    gap:16px;
+}
+
+
+.popup__exit{
+    cursor: pointer;
+    /* background-image: url(/assets/font/fontawesome-5.15.1/svgs/solid/times.svg); */
+}
+
+.popup__content{
+    font-size: 14px;
+    font-weight: 400;
+    padding: 0px 24px 14px 24px;
+}
+
+.popup__button{
+    border-top: 1px solid #e0e0e0 ;
+    display: flex;
+    justify-content: end;
+    flex-direction: row-reverse;
+    background-color: #fff;
+    padding:12px 24px 12px 24px;
+    border-bottom-left-radius:var(--border-radius) ;
+    border-bottom-right-radius: var(--border-radius);
+}
+
+.popup__button--right{
+    display: flex;
+    justify-content: end;
+}
+
+.popup__input .input{
+   width:100%;
+   margin-bottom: 0px;
+}
+
+.popup__button--right button{
+    margin-left: 8px;
+}
+
+.popup__item{
+    margin-bottom: 16px;
+}
+
+.popup__item--50{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 12px;
+}
+
+.popup__item--right input{
+    width:16px;
+    height:16px;
+    margin-right: 8px;
+}
+
+.popup__checkbox{
+    margin-top: 16px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 12px;
+}
+
+.popup__checkbox label{
+    font-family: roboto-regular;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    top: -3px;
+}
+
+.popup__button button{
+    margin: 0px;
+    margin-left: 12px;
+}
+
+.popup__radio{
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+    gap: 32px;
+}
+
+.popup__input--radio{
+    display: flex;
+    align-items: center;
+}
+
+.popup__input--radio input{
+    width: 20px;
+    height: 20px; 
+    margin-right: 8px;
+}
+
+.popup__cover .popup__content .popup__item span{
+    color:red;
+}
+
+#popup__filter{
+    position: absolute;
+    top :60px;
+    z-index: 10;
+    box-shadow: 0 0 16px rgba(23,27,42,.24);
+    display: block;
+}
+
+.popup__triangle{
+    position: absolute;
+    color: #fff;width: 20px;height:20px;
+    top:-16px;
+    left:280px;
+}

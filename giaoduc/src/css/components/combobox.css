@@ -1,0 +1,102 @@
+.combobox {
+  position: relative;
+}
+
+li{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.combobox__field{
+  display: flex;
+}
+
+.numberpage .combobox__input, .numberpage .combobox__button{
+  margin: 0px;
+}
+
+.numberpage .combobox__input{
+  width: 50px;
+  pointer-events: none; 
+}
+
+.numberpage .combobox__data{
+  top: -450%;
+}
+
+.combobox__input {
+  border: 1px solid #e0e0e0;
+  padding-left: 12px;
+  height: var(--height-primary);
+  border-top-left-radius: var(--border-radius);
+  border-bottom-left-radius: var(--border-radius);
+  margin-top: 8px;
+  border-right: 0px;
+  flex: 1;
+}
+
+.combobox__button {
+  height: 36px;
+  margin-top: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  background-color: #fff;
+  border: 1px solid #e6e6e6;
+  border-top-right-radius: var(--border-radius);
+  border-bottom-right-radius: var(--border-radius);
+  border-left: 0px;
+  cursor: pointer;
+}
+
+.combobox__data {
+  background-color: #fff;
+  z-index: 10;
+  width: 100%;
+  position: absolute;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  max-height: 308px;
+  padding: 8px;
+  box-shadow: 0 0 16px rgba(23, 27, 42, 0.24);
+  border-radius: var(--border-radius);
+}
+
+.combobox__data .combobox__item {
+  line-height: 36px;
+  border-radius: var(--border-radius);
+  padding-left: 8px;
+}
+
+.combobox__data .combobox__item:hover,.combobox__item--select {
+  background-color: #e0ebff;
+}
+
+.combobox:hover .combobox__input{
+  background-color: #fff;
+  border: 1px solid var(--color-primary);
+  outline: none;
+  border-right: 0px;
+}
+
+.combobox:hover .combobox__button{
+  background-color: #fff;
+  border: 1px solid var(--color-primary);
+  outline: none;
+  border-left: 0px;
+}
+
+.combobox__input:focus {
+  background-color: #fff;
+  border: 1px solid var(--color-primary);
+  outline: none;
+  border-right: 0px;
+}
+
+.combobox__input:focus + .combobox__button {
+  background-color: #fff;
+  border: 1px solid var(--color-primary);
+  outline: none;
+  border-left: 0px;
+}

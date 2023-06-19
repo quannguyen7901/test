@@ -1,0 +1,83 @@
+/* import css components */
+@import url(./components/button.css);
+@import url(./components/combobox.css);
+@import url(./components/dropdownlist.css);
+@import url(./components/icon.css);
+@import url(./components/texfield.css);
+@import url(./components/toast.css);
+@import url(./components/daialog.css);
+@import url(./components/popup.css);
+@import url(./components/form.css);
+@import url(./components/table.css);
+@import url(./components/tooltip.css);
+
+/* import css layout */
+@import url(./layouts/content.css);
+@import url(./layouts/header.css);
+@import url(./layouts/sidebar.css);
+
+/* Định nghĩa font chữ */
+@font-face {
+    font-family: roboto-medium;
+    src: url(../assets/font/Roboto/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: roboto-regular;
+    src: url(../assets/font/Roboto/Roboto-Regular.ttf);
+}
+
+/* biến css dùng chung */
+:root{
+    --color-primary:#007AFF;
+    --border-radius:4px;
+    --height-primary:36px;
+}
+
+/* thuộc tính css Scroll */
+::-webkit-scrollbar{
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track{
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #cdd3d6;
+    border-radius: 4px;
+}
+
+/* Thuộc tính css */
+
+*{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    margin: 0px;
+    box-sizing: border-box;
+    border: none;
+    font-family: roboto-regular;
+
+}
+
+body{
+    /* background-color: yellow; */
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    /* font-family: roboto-regular; */
+    min-width: 500px;
+    background: #f4f5f8;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}

@@ -1,0 +1,17 @@
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\bin\Debug\net6.0\Demo.BL.deps.json
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\bin\Debug\net6.0\Demo.BL.dll
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\bin\Debug\net6.0\Demo.BL.pdb
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\bin\Debug\net6.0\Demo.Common.dll
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\bin\Debug\net6.0\Demo.DL.dll
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\bin\Debug\net6.0\Demo.Common.pdb
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\bin\Debug\net6.0\Demo.DL.pdb
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\obj\Debug\net6.0\Demo.BL.csproj.AssemblyReference.cache
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\obj\Debug\net6.0\Demo.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\obj\Debug\net6.0\Demo.BL.AssemblyInfoInputs.cache
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\obj\Debug\net6.0\Demo.BL.AssemblyInfo.cs
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\obj\Debug\net6.0\Demo.BL.csproj.CoreCompileInputs.cache
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\obj\Debug\net6.0\Demo.BL.csproj.CopyComplete
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\obj\Debug\net6.0\Demo.BL.dll
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\obj\Debug\net6.0\refint\Demo.BL.dll
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\obj\Debug\net6.0\Demo.BL.pdb
+D:\Code\Misa\test\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Services\obj\Debug\net6.0\ref\Demo.BL.dll

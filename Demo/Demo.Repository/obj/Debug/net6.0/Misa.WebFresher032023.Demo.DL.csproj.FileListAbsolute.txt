@@ -1,0 +1,15 @@
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\bin\Debug\net6.0\Misa.WebFresher032023.Demo.DL.deps.json
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\bin\Debug\net6.0\Misa.WebFresher032023.Demo.DL.dll
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\bin\Debug\net6.0\Misa.WebFresher032023.Demo.DL.pdb
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\bin\Debug\net6.0\Misa.WebFresher032023.Demo.Common.dll
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\bin\Debug\net6.0\Misa.WebFresher032023.Demo.Common.pdb
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\obj\Debug\net6.0\Misa.WebFresher032023.Demo.DL.csproj.AssemblyReference.cache
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\obj\Debug\net6.0\Misa.WebFresher032023.Demo.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\obj\Debug\net6.0\Misa.WebFresher032023.Demo.DL.AssemblyInfoInputs.cache
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\obj\Debug\net6.0\Misa.WebFresher032023.Demo.DL.AssemblyInfo.cs
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\obj\Debug\net6.0\Misa.WebFresher032023.Demo.DL.csproj.CoreCompileInputs.cache
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\obj\Debug\net6.0\Misa.WebFresher032023.Demo.DL.csproj.CopyComplete
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\obj\Debug\net6.0\Misa.WebFresher032023.Demo.DL.dll
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\obj\Debug\net6.0\refint\Misa.WebFresher032023.Demo.DL.dll
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\obj\Debug\net6.0\Misa.WebFresher032023.Demo.DL.pdb
+D:\Code\Misa\Misa.WebFresher032023.Demo\Misa.WebFresher032023.Demo.Repository\obj\Debug\net6.0\ref\Misa.WebFresher032023.Demo.DL.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Misa.WebFresher032023.Demo.props" />
+</Project>
